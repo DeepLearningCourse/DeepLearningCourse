@@ -1,5 +1,5 @@
-5-ое занятие. Word Vectors
-==========================
+6-ое занятие. Neural Nets & Language Modeling
+=============================================
 
 * [__simple_language_model.ipynb__](./6week/simple_language_model.ipynb) - ноутбук с кодом для обучения простой модели предсказания следующей буквы.
 
