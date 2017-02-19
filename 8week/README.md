@@ -9,7 +9,7 @@
 
 
 
-
+</br></br></br></br>
 # 8th class. CNNs for NLP
 * [__TF-mRNN__](https://github.com/DeepLearningCourse/TF-mRNN) - repo with library for image captioning.
 
