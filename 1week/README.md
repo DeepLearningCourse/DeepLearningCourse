@@ -14,3 +14,5 @@
 * [__hello.ipynb__](./1week/hello.ipynb) - helloworld in Tensorflow.
 * [__TFregression.ipynb__](./1week/TFregression.ipynb) - jupyter notebook with linear regression code on Tensorflow.
 
+## Task
+* [__task_1.docx__] - task description.
