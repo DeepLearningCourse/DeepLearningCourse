@@ -1,0 +1,6 @@
+numpy
+tqdm
+gensim
+nltk
+matplotlib
+sklearn

@@ -1,7 +1,7 @@
 6-ое занятие. Neural Nets & Language Modeling
 =============================================
 
-* [__simple_language_model.ipynb__](./6week/simple_language_model.ipynb) - ноутбук с кодом для обучения простой модели предсказания следующей буквы.
+* [__simple_language_model.ipynb__](./simple_language_model.ipynb) - ноутбук с кодом для обучения простой модели предсказания следующей буквы.
 
 ## Задание 
 1. На основе __simple_language_model.ipynb__ сделать модель, которая будет предсказывать следующее слово, вместо следующей буквы.
@@ -12,7 +12,7 @@
 </br></br></br></br>
 # 6th class. Neural Nets & Language Modeling
 
-* [__simple_language_model.ipynb__](./6week/simple_language_model.ipynb) - jupyter notebook with code to train simple model predicting next letter.
+* [__simple_language_model.ipynb__](./simple_language_model.ipynb) - jupyter notebook with code to train simple model predicting next letter.
 
 ## Task 
 1. Basing on __simple_language_model.ipynb__ create a model predicting next word instead of next letter.
