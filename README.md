@@ -9,7 +9,7 @@
 
 </br></br></br></br>
 # DeepLearningCourse
-In this repo would be stored course materials for [DeepLearningCourse.ru](DeepLearningCourse.ru), presentations & jupyter notebooks with code.
+In this repo would be stored course materials for [DeepLearningCourse.ru](http://DeepLearningCourse.ru), presentations & jupyter notebooks with code.
 
 The folders are correspond to classes' numbers. There is an additional info about the class in each folder in README file.
 
